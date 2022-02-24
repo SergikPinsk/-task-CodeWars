@@ -1,0 +1,4 @@
+function sumStr(a,b) {
+var str = Number(a) + Number(b);
+  return String(str);
+}
